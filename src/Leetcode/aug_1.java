@@ -47,8 +47,10 @@ public class aug_1 {
 //    2.convert sting to int by using Integer.parseInt()
 
 
-public static void main(String[] args) {
-
-}
+    public static void main(String[] args) {
+//        String[] details = {"1234567890M792012"};
+//        int seniors =countSeniors(details);
+        System.out.println("Number of seniors: ");  // Output should be 1
+    }
 
 }
